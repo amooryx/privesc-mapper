@@ -1,8 +1,8 @@
-﻿# privesc-mapper
+# privesc-mapper
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python privesc_mapper.py --help
 ```
 
